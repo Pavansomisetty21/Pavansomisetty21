@@ -1,14 +1,16 @@
 ## Hi there 👋
 
+<div align="center">
+  
+👉 PavanSomisetty 
 
-**Pavansomisetty21/Pavansomisetty21** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning and developing LLMs , NLP and GenerativeAI
-- 💬 Ask me about LLMs and NLP
-- 📫 How to reach me:
+</div>
+
+
+
+
 <div align="center">
   
 <a href="https://www.linkedin.com/in/pavan-somisetty-1930a6233/">
