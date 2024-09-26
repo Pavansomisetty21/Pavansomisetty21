@@ -8,7 +8,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning and developing LLMs , NLP and GenerativeAI
 - 💬 Ask me about LLMs and NLP
-- 📫 How to reach me: 
+- 📫 How to reach me:
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/pavan-somisetty-1930a6233/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pavansomisetty-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" width="300"/>
+</a>
+
+</div>
+
+
+
  ## If you love my work   
 
  ### Support My Work
