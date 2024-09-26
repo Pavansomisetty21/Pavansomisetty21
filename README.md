@@ -19,23 +19,6 @@ Here are some ideas to get you started:
 
 
 
----
-
-
-
-
----
-
-
-<div align="center">
-
-<a href="https://github.com/sponsors/Pavansomisetty21">
-    <img src="https://img.shields.io/badge/sponsor-Pavansomisetty-fc66a5?style=for-the-badge" alt="Sponsor me" width="300"/>
-</a>
-
-</div>
-
-
 
 
 
